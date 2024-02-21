@@ -1,0 +1,8 @@
+.env
+.pyc
+*.iml
+.directory
+.idea
+.venv
+.dockerignore
+.python-version
